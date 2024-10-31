@@ -1,5 +1,0 @@
---[[
-    TweenWave.Declarative
-        Tw
-
-]]
