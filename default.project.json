@@ -1,20 +1,6 @@
 {
-  "name": "TweenWave",
-  "tree": {
-    "$className": "DataModel",
-
-    "ReplicatedStorage": {
-      "TweenWave": {
-        "$ignoreUnknownInstances": false,
-        "$path": "Lib"
-      }
-
-    },
-
-    "StarterPlayer": {
-      "StarterPlayerScripts": {
-          "$path": "client"
-      }
-    }
-  }
+	"name": "TweenWave",
+	"tree": {
+		"$path": "lib"
+	}
 }
